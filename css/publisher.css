@@ -143,9 +143,9 @@ header .intro-book {
 .intro-book img {
 	display: block;
 	margin:0 auto;
-	width:60%;
+	width:100%;
 	transition: all 0.3s ease;
-	max-width:450px;
+	max-width:300px;
 }
 
 @media(max-width:991px) {
