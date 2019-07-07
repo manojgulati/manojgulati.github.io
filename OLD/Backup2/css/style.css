@@ -117,7 +117,7 @@ button:focus {
     font-size: 36px;
     color: #222222;
     margin-bottom: 15px;
-    text-transform: uppercase; }
+    text-transform: capitalize; }
   .main_title p {
     font-size: 16px;
     font-family: "Roboto", sans-serif;
@@ -361,7 +361,7 @@ button:focus {
         font-family: "Heebo", sans-serif;
         line-height: 66px;
         margin-bottom: 15px;
-        text-transform: uppercase; }
+        text-transform: capitalize; }
       .blog_banner .banner_inner .blog_b_text p {
         font-size: 16px;
         margin-bottom: 35px; }
@@ -518,7 +518,7 @@ button:focus {
       margin-bottom: 0px;
       font-size: 18px;
       line-height: 26px;
-      text-transform: uppercase;
+      text-transform: capitalize;
       color: #fff;
       position: relative; }
     .categories_post .categories_details p {
@@ -2486,7 +2486,7 @@ h6 {
   font-family: "Heebo", sans-serif;
   font-size: 36px;
   margin-bottom: 18px;
-  text-transform: uppercase; }
+  text-transform: capitalize; }
 .welcome_text p {
   max-width: 495px;
   font-family: "Roboto", sans-serif;
@@ -2626,7 +2626,7 @@ h6 {
     .tabs_inner .tab-content .tab-pane .list li .media .media-body h4 {
       color: #fff;
       font-size: 21px;
-      text-transform: uppercase;
+      text-transform: capitalize;
       margin-bottom: 20px; }
     .tabs_inner .tab-content .tab-pane .list li .media .media-body p {
       color: rgba(255, 255, 255, 0.75);
@@ -2674,7 +2674,7 @@ h6 {
     font-family: "Heebo", sans-serif;
     font-weight: bold;
     margin-bottom: 20px;
-    text-transform: uppercase; }
+    text-transform: capitalize; }
   .feature_item p {
     margin-bottom: 0px; }
   .feature_item .main_btn {
@@ -2705,7 +2705,7 @@ h6 {
 .personal_text h6 {
   font-size: 14px;
   font-family: "Roboto", sans-serif;
-  text-transform: uppercase;
+  text-transform: capitalize;
   letter-spacing: 2.1px;
   font-weight: normal;
   margin-bottom: 12px;
@@ -2714,12 +2714,12 @@ h6 {
   font-size: 16px;
   font-weight: 500;
   font-family: "Roboto", sans-serif;
-  text-transform: uppercase;
+  text-transform: capitalize;
   margin-bottom: 20px;
   color: #222222; }
 .personal_text h3 {
   font-size: 48px;
-  text-transform: uppercase;
+  text-transform: capitalize;
   margin-bottom: 15px;
   color: #222222; }
 .personal_text p {
@@ -2887,7 +2887,7 @@ h6 {
   .testi_item h4 {
     color: #222222;
     font-size: 18px;
-    text-transform: uppercase; }
+    text-transform: capitalize; }
   .testi_item a {
     color: #ffc000; }
 
